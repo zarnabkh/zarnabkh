@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zarnabkh
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on web development projects (HTML, CSS, JS)
+- 👀 I’m interested in Data Analysis and Data Science
+- 🌱 I’m currently learning Machine Learning and NLP
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 Email me @ zarnabkh@gmail.com
 
 <!---
